@@ -21,9 +21,9 @@ Tools: Jupyter Notebook, GitHub
 Project Structure
 
 data-science-on-marketing-ml/
-├── README.md
-├── notebook.ipynb
-├── requirements.txt
-├── data/
-└── src/
+README.md
+notebook.ipynb
+requirements.txt
+data/
+src/
 
