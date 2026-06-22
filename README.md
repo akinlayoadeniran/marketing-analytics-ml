@@ -27,3 +27,9 @@ requirements.txt
 data/
 src/
 
+About Me
+
+Data science student at Facultet School with a focus on marketing analytics. Currently exploring internship opportunities in Portugal and remotely.
+
+
+This project is part of my learning journey into data science and machine learning.
